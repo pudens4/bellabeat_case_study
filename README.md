@@ -68,15 +68,13 @@ Summary weight
  Max.   :72.40   Max.   :159.6   Max.   :27.45  
  
  
- 
-['text'](/Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Calories vs total distance.png)
- 
- 
-/Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Total step vs total mn sleep.png
- 
- 
-/Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Total steps vs calories.png
 
+
+  ![Calories vs total distance](https://user-images.githubusercontent.com/86452750/161884128-ebdfd206-c114-4be8-8484-008025d6103e.png)
+![Total step vs total mn sleep](https://user-images.githubusercontent.com/86452750/161884132-ca0217e6-13e9-4092-b73d-50799fe0f062.png)
+![Total steps vs calories](https://user-images.githubusercontent.com/86452750/161884133-14e81bc6-f56a-4e87-b2c1-db0182f09c90.png)
+
+  
 
 ## Resources
 Data has been provided on Kaggle through a list of users who willingly give their data. 
