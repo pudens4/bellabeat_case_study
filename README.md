@@ -72,7 +72,7 @@ Summary weight
 ![Calories vs total distance](https://user-images.githubusercontent.com/86452750/161884128-ebdfd206-c114-4be8-8484-008025d6103e.png)
   
 
-(<br/>)
+<br/>
 ![Total step vs total mn sleep](https://user-images.githubusercontent.com/86452750/161884132-ca0217e6-13e9-4092-b73d-50799fe0f062.png)
   
   
@@ -85,4 +85,5 @@ Data has been provided on Kaggle through a list of users who willingly give thei
 
 ## Summary
 
-As the data has been limited in terms of sample size, based on what I have found 
+As the data has been limited in terms of sample size, the analysis has limitations in terms the findings and may change drastically if more 
+ data is gathered.
