@@ -69,7 +69,7 @@ Summary weight
  
  
  
-/Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Calories vs total distance.png
+['text'](/Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Calories vs total distance.png)
  
  
 /Volumes/Pud SSD/GitHub Projects/bellabeat_case_study/Plots/Total step vs total mn sleep.png
