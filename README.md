@@ -69,9 +69,13 @@ Summary weight
  
  
 
+![Calories vs total distance](https://user-images.githubusercontent.com/86452750/161884128-ebdfd206-c114-4be8-8484-008025d6103e.png)
+  
 
-  ![Calories vs total distance](https://user-images.githubusercontent.com/86452750/161884128-ebdfd206-c114-4be8-8484-008025d6103e.png)
+(<br/>)
 ![Total step vs total mn sleep](https://user-images.githubusercontent.com/86452750/161884132-ca0217e6-13e9-4092-b73d-50799fe0f062.png)
+  
+  
 ![Total steps vs calories](https://user-images.githubusercontent.com/86452750/161884133-14e81bc6-f56a-4e87-b2c1-db0182f09c90.png)
 
   
